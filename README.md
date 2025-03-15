@@ -23,7 +23,7 @@ Le notebook commence par installer les bibliothèques nécessaires :
 - Transformation d'un DataFrame Pandas en table Arrow.
 - Écriture et lecture d'un fichier Parquet avec pyarrow.
 #### 🔗 Lien vers le Notebook
-- Accéder au notebook sur GitHub
+- Accéder au notebook sur GitHub : https://github.com/gackouhamady/TP1_Parquet_Avro/blob/main/Parquet_Avro.ipynb
 
 ### 🛠 Technologies utilisées
 - Python
